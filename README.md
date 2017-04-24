@@ -1,2 +1,2 @@
 # robowebinar
-Automated Webinar System
+Automated Webinar System for Wordpress
